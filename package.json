@@ -1,0 +1,15 @@
+{
+  "name": "reqrestextract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yannick Saint Martino <y4nn5m@gmail.com> (http://yannick-saintmartino.com)",
+  "license": "ISC",
+  "dependencies": {
+    "rsvp": "^3.0.20",
+    "underscore": "^1.8.3"
+  }
+}
